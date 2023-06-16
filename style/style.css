@@ -1,0 +1,49 @@
+* {
+    /* box-shadow: 0 0 0 5px red;  */
+ }
+ html {
+   margin: 0;
+   padding: 0;
+   overflow-x: hidden;
+ 
+ }
+ body {
+   margin: 0;
+   padding: 0;
+   /* font-family: comic sans ms; */
+   overflow-x: hidden;
+   background-color: white;
+   
+ }
+ .color1{
+  background-color: #473EEf;
+ }
+ .color2{
+   background-color:#F0F0FF ;
+ }
+ .a{
+  border: none;
+  background-color:  #2F2E41!important;
+  font-weight: bold;
+ }
+ .b{
+  border: none;
+  background-color:  #473EEf!important;
+ }
+ 
+
+button:hover {
+    cursor: pointer !important;
+    background-color:  white!important;
+    color: #473eef !important;
+     
+}
+.acceder{
+  height: 100px;
+}
+
+
+
+
+
+
